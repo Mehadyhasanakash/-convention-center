@@ -25,3 +25,8 @@ li{
 .hight{
     height: 600px;
 }
+.f-hight{
+    height: 300px;
+    background-color: rgb(132, 0, 255);
+    padding: 50px;
+}
